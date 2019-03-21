@@ -13,6 +13,8 @@
 		B99E02D32243F1E8001750D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B99E02D12243F1E8001750D9 /* LaunchScreen.storyboard */; };
 		B99E02DB2243F671001750D9 /* AppStoreItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99E02DA2243F671001750D9 /* AppStoreItem.swift */; };
 		B99E02DD224404E8001750D9 /* AppStoreItemController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99E02DC224404E8001750D9 /* AppStoreItemController.swift */; };
+		B99E02DF22440CE8001750D9 /* AppleSearchTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99E02DE22440CE8001750D9 /* AppleSearchTableViewController.swift */; };
+		B99E02E122440E27001750D9 /* AppStoreItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99E02E022440E27001750D9 /* AppStoreItemTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		B99E02D42243F1E8001750D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B99E02DA2243F671001750D9 /* AppStoreItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreItem.swift; sourceTree = "<group>"; };
 		B99E02DC224404E8001750D9 /* AppStoreItemController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreItemController.swift; sourceTree = "<group>"; };
+		B99E02DE22440CE8001750D9 /* AppleSearchTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleSearchTableViewController.swift; sourceTree = "<group>"; };
+		B99E02E022440E27001750D9 /* AppStoreItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreItemTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				B99E02D42243F1E8001750D9 /* Info.plist */,
 				B99E02DA2243F671001750D9 /* AppStoreItem.swift */,
 				B99E02DC224404E8001750D9 /* AppStoreItemController.swift */,
+				B99E02DE22440CE8001750D9 /* AppleSearchTableViewController.swift */,
+				B99E02E022440E27001750D9 /* AppStoreItemTableViewCell.swift */,
 			);
 			path = AppleSearch;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				B99E02DB2243F671001750D9 /* AppStoreItem.swift in Sources */,
 				B99E02DD224404E8001750D9 /* AppStoreItemController.swift in Sources */,
+				B99E02E122440E27001750D9 /* AppStoreItemTableViewCell.swift in Sources */,
+				B99E02DF22440CE8001750D9 /* AppleSearchTableViewController.swift in Sources */,
 				B99E02C92243F1E6001750D9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
